@@ -107,3 +107,9 @@ body{
     text-align: center;
     height: 790px;
 }
+.price-jeans-section{
+    background-image: url(images/434\ 1.png);
+    text-align: center;
+    background-repeat: no-repeat;
+    margin: auto;
+}
