@@ -68,3 +68,42 @@ body{
     background-color: white;
     border-radius: 50px;
 }
+
+
+.options{
+    margin-left:313px;
+    margin-right: 313px;
+    padding-top: 80px;
+    
+}
+.four-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-top: 57px;
+}
+
+.options-cards{
+    font-size: 18px; 
+    background-color: #012A4A;
+    color: white;
+    padding:27px 33px 23px 43px;
+    text-align: center;
+    border-radius: 35px 5px;
+}
+
+.cards{
+    
+    background-color: white;
+    padding: 20px;
+    border-radius: 50px 5px;
+    margin: 31px;
+}
+.cards img{
+    width:  257px;
+    height: 212px;
+}
+#video{
+    background-image: url(images/bunch-twisted-jeans-close-up-fashionable-clothes\ \(1\)\ 1.png) ;
+    text-align: center;
+    height: 790px;
+}
