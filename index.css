@@ -1,16 +1,48 @@
 body{
     font-family: Li Ador Norrit;
+    margin: 0px
 }
+
 .header{
     padding-left: 245px;
     background-image: url(/images/Untitled-1\ 1.png);
 }
+.curved{
+    border:1px;
+    border-radius: 25px,5px;
+}
 .logo{
    
-    margin-top: 65.98px;
+    padding-top: 65.98px;
 }
 .grid-container {
     display: grid;
     grid-template-columns: 2fr 2fr;
+    margin-top: 57px;
    
   }
+  .highlighted-Text{
+    font-size: 24px;
+    background-color: #012A4A;
+    color: white;
+    padding:17px 29px 16px 30px;
+    border-radius: 35px 5px;
+  }
+  .button{
+    background-color: #F0E615;
+    padding: 22px 46px 20px 30px;
+    font-size: 24px;
+    display: block;
+    border-radius: 35px 5px;
+
+  }
+  #phone{
+    
+    background-color: #F0E615;
+    padding: 12px 37px 16px 44px;
+    font-size: 50px;
+    display: block;
+    border-radius: 35px 5px;
+    
+  }
+
