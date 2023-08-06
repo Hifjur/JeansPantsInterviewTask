@@ -1,6 +1,8 @@
 body{
     font-family: Li Ador Norrit;
-    margin: 0px
+    margin: 0px;
+    font-size:24px;
+    color:#003B60;
 }
 
 .header{
@@ -43,6 +45,15 @@ body{
     font-size: 50px;
     display: block;
     border-radius: 35px 5px;
+    margin-top: -20px;
     
   }
 
+.details{
+    margin-left: 315px;
+    margin-right: 315px;
+}
+
+.denim{
+    background-image: url(/images/denim_text_effect.png);
+}
