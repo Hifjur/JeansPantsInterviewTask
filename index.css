@@ -1,0 +1,16 @@
+body{
+    font-family: Li Ador Norrit;
+}
+.header{
+    padding-left: 245px;
+    background-image: url(/images/Untitled-1\ 1.png);
+}
+.logo{
+   
+    margin-top: 65.98px;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+   
+  }
