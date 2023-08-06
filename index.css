@@ -55,5 +55,16 @@ body{
 }
 
 .denim{
+    border-color: #003B60;
     background-image: url(/images/denim_text_effect.png);
+}
+
+.size-number{
+    display: inline;
+    font-size: 44px;
+    margin: 26px;
+    border: 1px solid rgb(255, 255, 255);
+    padding: 23px;
+    background-color: white;
+    border-radius: 50px;
 }
